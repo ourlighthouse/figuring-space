@@ -1,14 +1,22 @@
 <style>
-    body {
-        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-        font-size: 14pt;
+body {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 14pt;
+    background-color: lightgray;
     }
-    
-    img {
-        margin: 25px;
-        height: 200px;
-        width: 200px;
-    }
+
+img {
+    margin: 25px;
+    height: auto;
+    width: 800px;
+}
+
+div{
+    margin-top: 150px;
+    margin-bottom: 150px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
 </style>
 <div style="margin: 250px">
 <h1>Figuring Space</h1>
