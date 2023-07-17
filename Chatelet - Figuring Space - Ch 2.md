@@ -329,7 +329,7 @@ That is why two different rhythms underpin the 'history of ideas': the one, comp
 ## Notes
 [^1]: We prefer the term 'triptych' to that of 'triplet'. 'Triplet' belongs to the technical vocabulary of set theory: it is an ordered collection of three elements. 'Triplet' only refers implicitly to a process of orientation, which it hurries to open out. 'Triptych' is a three-panelled painting and explicitly suggests hinges. To speak of a 'triptych' (amplitude, intensity, parameter) is to *emphasize the articulation* and the undivided character, whereas the 'triplet' concentrates the attention only on the rule that associates the statement '*A*, then *B*, then *C*' and the symbol $(A,B,C)$.
 [^2]: For all the notions and concepts used in this chapter the reader can refer to the *Cambridge History of Later Medieval Philosophy* (Cambridge University Press, 1982).
-[^3]: We follow M. Clagett, *The Science of Mechanics in the Middle Ages* (University of Wisconsin Press, 1959), 347-70, for the text and diagrams of the configurations of qualities. Remember that Oresme (ca. 1325-1382) was bishop of Lisieux. We are indebted to him for works of popular science and on kinematics (the *Commentaire aux livres du ciel et du monde*) and an important treatise on money (*De mutationibus monetarum*). On these questions, see P. Duhem, *Etudes sur Leonard de Vinci* (Paris, 1909-13), 3 vols; and A. Maier, *An der Grenze von Scholastik und Naturwissenschaft* (Rome, 1952), and *Die Probleme der intensiven Grosse* (Rome, 1939).
+[^3]: We follow M. Clagett, *The Science of Mechanics in the Middle Ages* (University of Wisconsin Press, 1959), 347-70, for the text and diagrams of the configurations of qualities. Remember that Oresme (ca. 1325-1382) was bishop of Lisieux. We are indebted to him for works of popular science and on kinematics (the *Commentaire aux livres du ciel et du monde*) and an important treatise on money (*De mutationibus monetarum*). On these questions, see P. Duhem, *Etudes sur Leonard de Vinci* (Paris, 1909-13), 3 vols; and A. Maier, *An der Grenze von Scholastik und Naturwissenschaft* (Rome, 1952), and *Die Probleme der intensiven Grösse* (Rome, 1939).
 [^4]: St. Thomas Aquinas, *Summa Theologica*, I-II, question 52, article 1.
 [^5]: Ibid.
 [^6]: Ibid.
@@ -337,9 +337,9 @@ That is why two different rhythms underpin the 'history of ideas': the one, comp
 [^8]: It is necessary to distinguish between 'unity' as the character of what is one (for instance, of a living body or a work of art) and 'unit' as a means of measuring sizes of the same basic type (metre, kilogram, pound, etc.).
 [^9]: Clagett, p. 348.
 [^10]: Ibid., p. 350.
-[^11]: Aristotle, *Physics*, V, 225, b 16-226 a 22. B. Besnier, in a paper given at Cerisy (Colloque Rationalite et objectivite, chaired by J. Petitot, September 1988), showed that for Aristotle there could be neither motion of motion, nor change of change. in fact, it would be necessary for the change of type 1, acted upon by the change of type 2, to be capable of furnishing it with a substrate that would undergo the change while itself remaining unaltered. The modulation of intensity saves the Merton College authors and Oresme from being trapped between motion and rest. The truth of motion is in its elasticity, and this is why Leibniz so often insists on considering rest as motion that is infinitely slow.
+[^11]: Aristotle, *Physics*, V, 225, b 16-226 a 22. B. Besnier, in a paper given at Cerisy (Colloque Rationalité et objectivité, chaired by J. Petitot, September 1988), showed that for Aristotle there could be neither motion of motion, nor change of change. in fact, it would be necessary for the change of type 1, acted upon by the change of type 2, to be capable of furnishing it with a substrate that would undergo the change while itself remaining unaltered. The modulation of intensity saves the Merton College authors and Oresme from being trapped between motion and rest. The truth of motion is in its elasticity, and this is why Leibniz so often insists on considering rest as motion that is infinitely slow.
 [^12]: Richard Swineshead: 'To every degree of velocity (i.e. qualitative or instantaneous velocity), there corresponds a lineal distance which *would* be described, assuming a movement through the time at this degree' (quoted by M. Clagett, *The Science of Mathematics in the Middle Ages*, p. 214). 
-[^13]: Quoted from the *Questions* of Jean Le Chanonine by P. Duhem (*Etudes sur Leonard de Vinci* p. 343).
+[^13]: Quoted from the *Questions* of Jean Le Chanonine by P. Duhem (*Etudes sur Léonard de Vinci* p. 343).
 [^14]: Geoffrey of Ockham, ibid., p. 342. Remember the classical argument against such addition: one never obtains hot by juxtaposing tepidnesses.
 [^15]: Clagett, *The Science of Mechanics in the Middle Ages*, p. 357.
 [^16]: Continuous in the scholastic sense, where no part is distinguished in action.
@@ -355,23 +355,23 @@ That is why two different rhythms underpin the 'history of ideas': the one, comp
 [^26]: See G. Guillaume, *Langage et Science du langage*, Montreal 1973, on the fundamental character of the split between verticality and horizontality; in particular p. 186: 'The mechanism to which the human spirit obeys in the case in point is that of an operative, constructive longitude and of resulting latitudes marking the state of advancement of the constructive operation engaged and developed in longitude.'
 [^27]: On the inadequacy of successors, see A. Badiou, *Le Nombre et les nombres* (Paris: Seuil, 1990), chapter 9. 
 [^28]: I am referring to Hegel's analyses of the bad infinite (*die schlechte Unendlichkeit*), *Science de la logique. L'Etre*, Bk I, 2nd section, chapter 2, C, *b*, 1 (Paris: Aubier, 1972), 231-48.
-[^29]: J.-T. Desanti, *Les idealites mathematiques* (Paris: Seuil, 1968), 133.
+[^29]: J.-T. Desanti, *Les Idéalités mathématiques* (Paris: Seuil, 1968), 133.
 [^30]: A. Miller, *Imagery in Scientific Thought* (Boston: Birkhauser, 1984), chapter 3 and 4.
 [^31]: The datum of a non-zero mass is equivalent to providing a perpendicularity. See Goldblatt, *Orthogonality and Space-Time Geometry* (Springer Verlag, 1987).
-[^32]: On this paragraph, see de Broglie, *Recherches sur la theorie des quanta* (1924) (Paris: Masson, 1963), 19-31; and *Ondes et Mouvements* (Paris: Gauthier-Villars, 1926), 6-11.
-[^33]: On the fold, see G. Deleuze, *Le Pli, Leibniz et le Baroque* (Paris: Minnuit, 1988); A. Scala, *La Genese du pli selon Heidegger* (forthcoming).
-[^34]: De Broglie, *Recherches sur la theore des quanta*, p. 23.
+[^32]: On this paragraph, see de Broglie, *Recherches sur la théorie des quanta* (1924) (Paris: Masson, 1963), 19-31; and *Ondes et Mouvements* (Paris: Gauthier-Villars, 1926), 6-11.
+[^33]: On the fold, see G. Deleuze, *Le Pli, Leibniz et le Baroque* (Paris: Minnuit, 1988); A. Scala, *La Genése du pli selon Heidegger* (forthcoming).
+[^34]: De Broglie, *Recherches sur la théorie des quanta*, p. 23.
 [^35]: Ibid. p. 29.
-[^36]: See de Broglie's lovely meditation, 'Sur le parallelism entre la dynamique du point material et l'optique geometrique (*Journal de physique*, January 1926, series VI, vol. VII, pp. 1-6), where he studies 'the propagation of a given type of wave in a vacuum at a great distance from all other matter ...'
+[^36]: See de Broglie's lovely meditation, 'Sur le parallélisme entre la dynamique du point matérial et l'optique géométrique (*Journal de physique*, January 1926, series VI, vol. VII, pp. 1-6), where he studies 'the propagation of a given type of wave in a vacuum at a great distance from all other matter ...'
 [^37]: At the level of fundamental discoveries, the work of a physicist is comparable to that of the painter who has to smash figurative data. On the relationship between diagram and pictural event, see G. Deleuze, *Logique de la sensation* (Paris: La Difference, 1981), chapter XI and XII.
 [^38]: On these subjects, see A.C. Crombie, *La Philosophie de saint Bonaventure* (Paris: Vrin, 1924).
-[^39]: 'De luce seu de inchoatione formarum', in L. Baur, *Die philosophischen Werke des R. Grosseteste* (Munster, 1912), 52-61.
+[^39]: 'De luce seu de inchoatione formarum', in L. Baur, *Die philosophischen Werke des R. Grosseteste* (Münster, 1912), 52-61.
 [^40]: Ibid.
 [^41]: Remember that the caustic is the luminous curve formed by successive intersections of rays leaving a point and reflected or refracted by another curve. 
 [^42]: R.P. Feynman, *The Strange Story of Light and Matter* (Princeton: Princeton University Press, 1985).
 [^43]: See (II,1) the final observation on the triptych $(Q,T,S)$.
 [^44]: This is the object of the calculus of variations.
-[^45]: On the nature and spectra of ordinals, see A. Badiou, *L'Etre et l'Evenement* (Paris: Seuil, 1989), 141-47.
+[^45]: On the nature and spectra of ordinals, see A. Badiou, *L'Etre et l'Evénement* (Paris: Seuil, 1989), 141-47.
 [^46]: The pitch of the sounds produced is linked to the connecting edge (the edge of domain $D$) of the membrane.
 [^47]: See n. 23 above.
 

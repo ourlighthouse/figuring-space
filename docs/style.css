@@ -10,3 +10,10 @@ img {
     height: auto;
     width: 800px;
 }
+
+div{
+    margin-top: 150px;
+    margin-bottom: 150px;
+    margin-left: 250px;
+    margin-right: 250px;
+}

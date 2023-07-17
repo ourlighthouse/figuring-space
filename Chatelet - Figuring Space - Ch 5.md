@@ -139,7 +139,25 @@ A transport, a *vection act*, penetrates nothing: the gesture that directs it is
 
 Extracting degrees of penetration by taking the 'square root' of a transport of a *vection act*: we are going to see that Faraday, Hamilton and Maxwell could all three have recognized themselves in this programmed. All three experimented with devices for coalescing degrees (see II,1) that no longer only unfold them along a trajectory by making the forces work, but that win them for a conquest of the density, substituting corkscrews for the trolleys and rulers of mass of mechanics (see fig. 15).
 
-## 5. The Electrogeometric Experiments as Square Root
+## 5. The Electrogeometric Experiment as Square Root
+
+Henceforth the axial, or more precisely the axis-loop interface, takes the place of the indifference centre and sustains the whole electrogeometric edifice just as the centre of gravity sustained Newtonian philosophy. We know about how the overhanging centres can overturn entire continents of knowledge by subordinating rebellious heterogeneities to symmetrizing devices: it is thus that Newton, discovering the compensation of centrifugal forces by centripetal forces, abolishes the frontier that isolated 'on high' (the celestial world) from the world 'below' (the sublunary world). As for the new physics, it demanded the dismissal of the apparent truths of interaction at a distance and required the experience of an equilibrium between translations and rotations. With the axis-loop interlace we are going to rediscover all the traits that characterized an *allusive device* in the diagram of the balance (see chapter III): a great capacity to condense and expand the intuition, the combined creative compressions of the orientation and the square root and, finally, an operative pugnacity which maintains its place in the most up-to-date research.
+
+![[Figuring-Space_Fig-5-15.png]]
+
+Faraday, Hamilton and Maxwell in their own way all experimented with the interlace and discovered in it a very particular cohesion and autonomy, from which the analyses that follow have taken three fundamental features:
+
+(1) We are not dealing here with a real joint as in the mechanical 'base-roller' gear wheels (see III,5,C), which articulates two extensions through immediate contact. The axis and the loop interlace like the links of a chain, but knotting together, relations of position, with no material links. The gearing and its immediate centre burst into lines of force which do not simulate real outflowings, but sketch the actions that emanate virtually from 'real' circuits (see fig. 16).
+
+(2) The lines of force weave a 'field', a system of reverberation and resonance between the space and the geometer or physicist; one might speak of a preparation of space for experimentation, analogous to that of the moved awakened to mobility (see I,1). The mechanical vision made nothing reverberate: it was happy just to decant impulse whereas electrogeometry, by successfully meeting the ordeal of ambiguity, can gain for itself a reserve space for the unfolding of virtualities &mdash; neutral territory that authorizes and gives rise to unprecedented experiments; what happens if one turns this circuit a little, if one mixes this one and that one up?
+
+This neutral territory is not an indefinite or residual 'space'; its cohesion is inherited from a certain reciprocity of the polarizations associated with the transports of charges (currents). To the transitivity and the reality of these currents &mdash; represented by 'true' vectors &mdash; responds the axial character of the magnetic field that they induce.
+
+![[Figuring-Space_Fig-5-16.png]]
+
+(3) The interlacing of the circuits and the lines of field (see fig. 16) demonstrates spatially the closure by looping of the real and the virtual, of the polar and the axial. The latter forges an entirely singular link between the order of the causalities of the figures, between the 'physical' and the 'geometric', and guarantees the axis-loop system an entirely remarkable cohesion.
+
+### A. *Faraday: the pedagogy of the lines of force*[^15]
 
 
 ## Notes
