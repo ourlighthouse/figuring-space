@@ -16,8 +16,9 @@ We have just touched on the weak point of the theory of abstraction: a certain c
 It is easy to discover what places this strain on the theory of abstraction: its contempt for the gesture that made the determination possible. It seems that the theory of abstraction-prothesis exacerbates the opposition of the terms that it was supposed to bind back together. The shift becomes inevitable. Mathematical beings appear above all as impoverished physical beings, and the latter remain prisoners of the order of final causes: a moving body is moved according to the form that it should have and according to the place where it ought to remain.
 
 These shortcomings at least have the merit of drawing attention to two crucial points:
-* the principle of cutting out mathematical beings by thought, which allows them to be sheltered from the mobility of the world. Later we will show the creative force of this principle at work in the thought experiments of modern physics (chapters II and III);[^6] 
-* the characterization of the physical as sensible matter, a strong mixture of friskiness[^7] and submission to the order of final causes.
+
+- the principle of cutting out mathematical beings by thought, which allows them to be sheltered from the mobility of the world. Later we will show the creative force of this principle at work in the thought experiments of modern physics (chapters II and III);[^6] 
+- the characterization of the physical as sensible matter, a strong mixture of friskiness[^7] and submission to the order of final causes.
 
 Several questions then pose themselves: can one conceive of physico-mathematical beings that are not irremediably enslaved to the appetites of the world, without turning them into abstract figures reduced to existence by proxy? To answer these requirements, modern physico-mathematics has borrowed a good deal from Aristotle's famous definition: 'The fulfillment of what is potentially, is motion.'[^8] Motion, according to Aristotle, is the process of actualization of a potential from which cannot be reduced to the simple nostalgic yearning of a form in transit towards a higher form. For to reduce motion to an act is immediately to quench it: the moving has to be fulfilled in respect to power, since all motion is above all a seed of motion. It is precisely this patience in the fulfillment of the act that means that thought cannot rid itself of motion by assimilating it to a transition between states dictated by appetences.
 
@@ -29,8 +30,9 @@ To learn or teach, to accord or cede mobility gradually to a body, is always to 
 
 ## 2. Elastic and Decisive Virtuality
 In sensing that physico-mathematics was being played out at the level of an exchange of mobility and that there existed a kind of profound affinity between the pupil who learns and the moving body that progressively receives degrees of velocities of forces, Aristotle sketched out the path of another theory of abstraction, or another manner of cutting out by thought, which does not limit itself to making a 'prothesis' that can be adjusted at will. Leibniz is certainly among those who have most profitably pondered Aristotle's discreet invitation; he was able to see in virtuality a means of combining act and power that was suited to answering the questions that were preoccupying him:
-* By what 'miracle' are mathematical beings, 'abstract' and immutable, linked to the determination of physical beings from 'Nature' which are subject to contingency and mobility?
-* How is one to reconcile multiplicity and magnitude? How is one to capture the physico-mathematical gesture? Can one grasp degree and quantity simultaneously?
+
+- By what 'miracle' are mathematical beings, 'abstract' and immutable, linked to the determination of physical beings from 'Nature' which are subject to contingency and mobility?
+- How is one to reconcile multiplicity and magnitude? How is one to capture the physico-mathematical gesture? Can one grasp degree and quantity simultaneously?
 
 Virtuality invents and decides on a mode of elasticity; it prepares, cuts out and propels new plastic units. Virtuality awakens gestures: it *solicits* determination, it does not snatch it. It is not the same as the range of possibles, but allows for its decision and unfolding. Leibniz knew that there is an invitation in the virtual that escapes the philosopher who is in a hurry; to the latter, a block of unrefined marble and the statue that 'comes out' of it will seem strangers to one another, if he does not know the meditations of the Theophilus of the *New Essays*: it is hard to imagine that there are veins in the marble until one discovers them.[^9]
 
@@ -88,9 +90,10 @@ For this concrete physics, to define certain domains of the *spatium* is necessa
 
 ## 3. The Principle of Virtual Velocities
 We are going to see how the principle of virtual velocities expounded by Lagrange responds to the wishes of Leibniz:
-* endowing the force with patience by finding, in the elasticity of a potential, a 'middle between power and action';
-* demystifying the force by asserting the free unfolding of spontaneities and by accepting that which interacts, weighs, or presses in the extension as constraints and conditions coming from certain partitions of the *spatium*;
-* the principle of virtual velocities establishes a free mechanics that no longer bows down before the partitions of the imagination, the 'diktats' of the spatial or the diversity of forces.
+
+- endowing the force with patience by finding, in the elasticity of a potential, a 'middle between power and action';
+- demystifying the force by asserting the free unfolding of spontaneities and by accepting that which interacts, weighs, or presses in the extension as constraints and conditions coming from certain partitions of the *spatium*;
+- the principle of virtual velocities establishes a free mechanics that no longer bows down before the partitions of the imagination, the 'diktats' of the spatial or the diversity of forces.
 
 For Fourier, a genuine 'philosophical' mechanics had at last just been born: 'His principal work, the *Analytical Mechanics*, could as easily be called the Philosophical Mechanics, for it reduces all the laws of equilibrium and motion to a single principle.'[^23] Like Leibniz, Lagrange wants to examine forces when they are not hindered:
 
@@ -237,9 +240,10 @@ As in Lagrange's example, this consists in cutting out a part by thought and pro
 We see a continuity of gestures sketching itself out here: give a point thickness and have it radiate out by extracting a small disc capable of revealing a *geometric matter*, of which it might almost be said that this 'negative transplant' makes it akin to Aristotle's sensible matter.
 
 We can now appreciate how far we have come:
-* we started out from the point conceived as a pure geometric figure, made individual by arbitrary impact of the designating finger;
-* next, as a pole on the straight line, it resists all direct capture by producing indeterminations;
-* as a pole in the plane, it shows a peculiar vigour: it is now *that around which* one can excavate and which can be given density.
+
+- we started out from the point conceived as a pure geometric figure, made individual by arbitrary impact of the designating finger;
+- next, as a pole on the straight line, it resists all direct capture by producing indeterminations;
+- as a pole in the plane, it shows a peculiar vigour: it is now *that around which* one can excavate and which can be given density.
 
 In expounding the theorem of residues, we observed that the curves bordering the domain $D$ had to satisfy a certain condition. Specifically this condition is: the curve has to embrace the point $P_0$ *once only*. In a more complicated case &mdash; for example, that shown in figure 9 &mdash; we have to specify the number of loops actually completed by $\Gamma$ around $P_0$. 
 

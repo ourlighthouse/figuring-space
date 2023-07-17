@@ -90,8 +90,9 @@ Let us call such a continuum the *amplum*[^17], as Leibniz does. Leibniz shows t
 This diagram clearly marks the opposition between the discrete and the ordered presentation of the appliquat (the 'patient') and the undivided arrows of the appliquant (the 'agent'), which ensure the perpendicular distribution of the intensities (of the 'action'). There is also a noticeable rebalancing of the roles, as it were: it is the patient that standardizes the order of the terms of the series, the unfolding of the degrees. The parallelism of the arrows avoids the dispersion of these degrees by limiting to a single gesture the distribution of what Leibniz calls the *ductus*[^19] and which presents the *amplum* as a striated area, like a fascia of the stripes.
 
 There is no exaggeration in speaking of an ordered compenetration of the two series of factors: the constant perpendicularity of the appliquat discourages any neutralization of the second by the first and therefore any dissemination of the degrees that would lead to their impotence. The strip effect exerts a pressure in the same direction: by knitting together the discrete and the continuous, it forbids the gaze any peaceful crossing of the *amplum* that would reduce it to a juxtaposition of parts. Leibniz's *amplum*, as a diagram of the 'placing according to composed reason', as a striated area, makes it clear that the homogeneity must be won and that, far from resulting from a neutralization of the dimensions, it accompanies their emergence. This diagram, in the tradition of Oresme, shows that 'the outline of one dimension in another is the real manifestation of mental multiplication'[^20] by coalescing two effectivities traditionally opposed to one another:
-* an 'extensive' effectivity, exerted discretely in several subjects (the different points of the diagram);
-* an 'intensive' effectivity, affecting a unique subject by diffuse pressure.
+
+- an 'extensive' effectivity, exerted discretely in several subjects (the different points of the diagram);
+- an 'intensive' effectivity, affecting a unique subject by diffuse pressure.
 
 ![[Figuring-Space_Fig-2-7.png]]
 
@@ -123,8 +124,9 @@ In its strategy of breaking with mechanical clichés, modern physics has recogni
 We are forewarned: tepidnesses coalesce only in a single subject and, to be effective, the degrees can only be distinguished by remaining as it were enshrined in their spectrum; one could not appropriate them by removing them like the petals of a flower: it is necessary to find a device that unfolds them as contemporaneous elements.
 
 This is particularly relevant to the degrees of velocity: a velocity taken on its own has little to tell us, but a *range* or *fan* of velocities prepares the intuition much better for a leap. This is why it is not enough simply to take an inventory of Oresme's rectangles which corresponds to the various degrees of velocity. Between them there exists a kind of connection that precedes the determination of this one or that one. The velocities should not be added up like rulers placed end to end, but should be grasped in the way that a single object would unfold them in thought in order to inspect a space more or less promptly. We should therefore speak of the *spectrum* of the velocities and, in this spectrum, the maximal degree (the degree 1 of velocities) (see fig. 4) clearly plays a very particular role:[^24]
-* it subordinates *to itself* all the other degrees, which exist only through their proximity to it; it therefore functions as the central piece of the 'ontological measurement';
-* this situation, which is prominent in the hierarchy of the degrees (as model of perfection), forbids all assimilation to an extensive unit (of length or time, for example) whose choice is arbitrary: the degree 1 of velocity is that at which all distinction between time and space is revealed to be impossible.
+
+- it subordinates *to itself* all the other degrees, which exist only through their proximity to it; it therefore functions as the central piece of the 'ontological measurement';
+- this situation, which is prominent in the hierarchy of the degrees (as model of perfection), forbids all assimilation to an extensive unit (of length or time, for example) whose choice is arbitrary: the degree 1 of velocity is that at which all distinction between time and space is revealed to be impossible.
 
 It is this degree that opens and closes the *amplum* (the 'space-time') and the distinction between time and space is possible only for bodies capable of rest (non-zero masses).
 
@@ -142,8 +144,9 @@ Now, the effect of perspective resounds for a spectrum of velocities as depth do
 
 ![[Figuring-Space_Fig-2-10.png]]
 
-* As horizon of velocities, it remains hopelessly 'asymptotic' for material bodies, even where indefinitely accelerated. It is therefore 'really' inaccessible, but the degrees of velocity seem no less carried off by a motion of generalized engulfment. This is the result of the *compactification* of perspective (the 'finitude' on which Panofsky insists).
-* This compactification domesticates the inaccessible: to decide on a horizon is to make oneself master of the units of length associated with the different lines of distance (here, to decide on a degree 1 of velocities is to dominate discretely all the developments of intensity permitted by Oresme's diagrams and to distribute them in a single range *before any journey has been completed*).
+
+- As horizon of velocities, it remains hopelessly 'asymptotic' for material bodies, even where indefinitely accelerated. It is therefore 'really' inaccessible, but the degrees of velocity seem no less carried off by a motion of generalized engulfment. This is the result of the *compactification* of perspective (the 'finitude' on which Panofsky insists).
+- This compactification domesticates the inaccessible: to decide on a horizon is to make oneself master of the units of length associated with the different lines of distance (here, to decide on a degree 1 of velocities is to dominate discretely all the developments of intensity permitted by Oresme's diagrams and to distribute them in a single range *before any journey has been completed*).
 
 But this contemplation could not be mutilated by reducing it to a look that disregarded horizontality and contented itself with merely sweeping from bottom to top over the degrees of a scale. The obliquity that gives the effect of depth in a painting is achieved by a regulated knitting together of verticality and horizontality.[^26] Everything rests on the manner in which a degree of removal and an apparent diminution of the standard measure of length are articulated; perspective can therefore by understood as a compensating device between a virtual leap from one distance line to another and a virtual contraction of the associated standard measures. Obliquity decides on a pact between the vertical and the horizontal; it obliges the eye to arrange juxtapositions in a scale and therefore to give a *height* to an iteration.
 
@@ -287,8 +290,8 @@ Stationary points or points of inflexion are therefore those which problematize 
 
 In order to distinguish this or that individual, these principles do not allow themselves to be guided by simple contrasts or by crude quantitative inequalities, proceeding from partitions or manipulations of already accomplished individuals, which reduce measurement to a balance sheet of which one hopes it will be able to gather them into a presentable totality. The principles of stationary determination do not hesitate to meddle in the very process of individuation, as the two following statements, coming respectively from Fermat and Feynman, show: 
 
-* 'Among all the rays proceeding from the point $A$ and compelled to pass through $B$, there is one that accomplishes the journey in a minimum time and this is the path actually followed by light ...'
-* 'No path is privileged *a priori*, they constitute a continuum where they are virtually equivalent. A photon proceeding from $A$ and absorbed into $B$ can take any trajectory of this continuum, but the probability of maximal location is the segment that joins $A$ to $B$.'[^42]
+- 'Among all the rays proceeding from the point $A$ and compelled to pass through $B$, there is one that accomplishes the journey in a minimum time and this is the path actually followed by light ...'
+- 'No path is privileged *a priori*, they constitute a continuum where they are virtually equivalent. A photon proceeding from $A$ and absorbed into $B$ can take any trajectory of this continuum, but the probability of maximal location is the segment that joins $A$ to $B$.'[^42]
 
 ![[Figuring-Space_Fig-2-23.png]]
 
@@ -320,8 +323,8 @@ The crucial role played by envelopment should be emphasized: it functions like a
 
 This is why de Broglie's meditation on the analogy of Fermat's and Maupertuis's principles has such far-reaching consequences, well beyond its stakes in physics. In subordinating optical individuation and mechanical individuation to a common horizon, he succeeded (with Planck and Einstein) in overcoming the rivalry of the two poles which, for nearly two centuries, had been fighting over the direction of the project of the scientific grasp of the being-in-the-world:
 
-* a 'horizontal' pole, which fragments and realizes processes;
-* an allusive, vertical spectral pole, the privileged field of exercise for virtuality.
+- a 'horizontal' pole, which fragments and realizes processes;
+- an allusive, vertical spectral pole, the privileged field of exercise for virtuality.
 
 That is why two different rhythms underpin the 'history of ideas': the one, completely discontinuous, of 'ruptures', 'paradigms' and their refutations, and the other of the problematic latencies that are always available for reactivation and full of treasures for those who can reawaken them.
 

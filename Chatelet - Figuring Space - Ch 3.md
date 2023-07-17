@@ -65,6 +65,7 @@ The geometric intuition is therefore no longer only the kind of ocular inspectio
 But this mobilization of space also causes physics and, above all, the whole of the electrophilosophy of the beginning of the century to totter; in understanding that a magnetic bar concentrates no boreal or austral fluid around its poles, in conceiving of it as a *loop* splitting space into two faces and as an axis capable of producing a third dimension, Ampere and Faraday invent a stratagem that is sufficiently powerful to inspire and give definite form to the whole electromagnetic vision from which Maxwell and Einstein drew their inspiration.
 
 ## 2. A Question from Kant: What Diagrams for the  Negative?
+
 To introduce the concept of negative magnitude of quantity, Kant observes:
 
 > Two things are opposed to each other if one thing cancels out that which is positive in the other. Opposition can be logical or real. Hitherto attention has been centered on logical opposition. This consists in affirming and denying something of the same subject. This logical connection is without consequence .[*nihhil negativum repraesentabile*], as the principle of contradiction states.[^8]
