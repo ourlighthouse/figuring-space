@@ -73,6 +73,7 @@ As an 'incorporeal and inexplicable property', the force is thus frozen in a fig
 The Understanding always allows itself to be fooled by this burst of 'sincerity' from motion. Impatient to proceed, it sees to what is most urgent by propelling an arrow whose mission is to inject some activity into matters presented as 'inert'. Matters thereby have some force, but a force paralysed into exteriority by the arrow, without regard for what Leibniz called the 'manner of operation',[^22] which curiously brings it closer to the incorporeal properties of scholasticism. The force seems more 'real' and even 'truer' than the thing itself. The Understanding 'believes' in the force, but, when it botches up such a prothesis in order to have done with causality, it would settle too easily with the powers of acting of the matter. Although stuck into a point of the thing, the arrow exhausts itself in leaping outside it: ersatz of exteriority. In fleeing its point of application, it rejects all intensity.
 
 ![[Figuring-Space_Fig-1-1.png]]
+
 The force arrow would like to pass itself off for causality, but this label says too much and not enough: it never stops repelling itself.
 
 Extended space is no stranger to this realism of force: interaction at a distance is a way of creating a symbiotic relationship between an inert spatial interval &mdash; a residue of vacuum between things &mdash; and an intensity freely given by the forces of attraction or repulsion. But in this swindle, the force allows itself to be swallowed up in the spatial. Leibniz recognized that it was a single motion that would fluidify space and desubstantiate force: to throw a bridge between space and action, it is necessary to promote the idea of a generalized elasticity that is applicable to things, figured, forces, distances and cutouts of substance by the Understanding.
@@ -103,9 +104,11 @@ $$
 (1)\ \  
 \sum \delta W_i = \sum F_i \delta q_i 
 $$
+
 (the $\delta q_i$ are the 'virtual' displacements).
 
 ![[Figuring-Space_Fig-1-2.png]]
+
 
 It is to be observed that the statement relates to the *work* of the forces and is therefore a notion that envelops them by relegating the points of application to the background. What is determining is the work or the power that we allow them to unfold in thought; it is in showing ourselves capable of evaluating the works developed by the mobilities with which we endow the bodies that we can deduce the equilibria and the 'real' motions. We have succeeded in making Aristotle's protheses concrete.
 
@@ -114,6 +117,7 @@ It should also be emphasized that the terms $\delta W_i = F_i \delta q_i$ of for
 $$
 (2)\ \ (\delta W, F, \delta q)
 $$
+
 whose arrangement is absolutely identical to that of Aegidius' *quantitas materiae* $(M, d, V)$.
 
 Here again, the unfolding of the physico-mathematical virtuality is achieved by dint of the intensity $F_i$ which creates a hinge between $\delta W_i$ and $\delta q_i$, in such a way that $\delta W_i$ elastically envelopes the variations of the parameter.
@@ -125,6 +129,7 @@ In certain cases, the application of the principle of virtual works leads to the
 Generalized forces and potential allow a much more creative grasp of the equilibrium than that which confines itself to the purely static consideration of a parallelogram of forces.[^26] With the principle of virtual powers, the fundamental relation of the dynamic is established, as it was for the static, by reaching an equilibrium such that the virtual works $\delta W_i$ of the 'generalized forces' $F_i$ are compensated for by the works of the forces of inertia $J_i$ proceeding from accelerations. These last can be expressed in the form $\sum J_i \delta q_i$ and, in the light of the foregoing, it is natural to name them *generalized forces of inertia*. The fundamental formula of the dynamic requires then that the sum of the two quantities $\delta W_1 = \sum F_i \delta q_i$ and $W_2 = \sum J_s \delta q_s$ should equal zero for all the virtual displacements imposed on the system or, in other terms, that one has, at any moment;
 
 $$(3)\ \ F_i + J_i = 0$$
+
 These are the famous *Lagrange equations*, which state that at any moment the sum of the forces acting on the system and the sum of the forces of inertia would be capable of keeping the system in equilibrium in the very state of which it appears at this moment. It is easy to deduce from them the theorem of live forces: 'The work done, in a particular amount of time, by the real forces that solicit a system is equal to the increase undergone at the same time by the system's live force'.
 
 We are now in a position to appreciate the whole force of the principle of virtual velocities: by positioning himself straight off in the Liebnizian paradise of the *spatium*, that of the maximal displacement of the powers of acting, the mechanic can invent new devices of equilibrium and not let himself by subjugated by the transcendence of 'real forces', which are external to the system. In the case of the dynamic, these forces could be compensated by forces of inertia; these new devices of equilibrium must therefore be sufficiently ample to allow the equivalence and exchange of mobilities belonging to *a priori* orders as radically heterogeneous as those of geometry and substance.
@@ -133,31 +138,45 @@ We are now going to see how, in the wake of Leibniz, the principle makes it poss
 
 More precisely, with the aid of the principle, the mechanic will be able to conceive of the forces external to the system $\Sigma$ as the forces of liaison internal to a system $\Sigma'$ which is more ample than $\Sigma$. He will also be able to bring them back at will by cutting out $\Sigma'$ again in a suitable manner, which is then understood as the aggregate of $\Sigma$ and other systems. Consider therefore two systems of bodies $S_1$ and $S_2$. Let $\delta W_1 = \sum F_i^1 \delta q_i^1$ (respectively, $\delta W_2 = \sum F_j^2 \delta q_j^2$) be the virtual work of the forces that act on $S_1$ (respectively $S_2).
 
+
 ![[Figuring-Space_Fig-1-3.png]]
+
+
 
 The sum of these two works is naturally:
 
 $$(4) \ \ \delta W_1 + \delta W_2 = \sum F_i^1 \delta q_i^1 + \sum F_j^2 \delta q_j^2$$
-If, now, I constitute a system of bodies with those of $S_1$ and $S_2$ by juxtaposing them in such a way that some bodies of the first system find themselves in contact with some bodies of the second system, each virtual displacement of the resultant system will impose on the quantities $q_i^1$ and $q_j^2$ variations $\delta q_i^1$ and $\delta q_j^2$, and on the acting forces a work:
+
+If, now, I constitute a system of bodies with those of $S_1$ and $S_2$ by juxtaposing them in such a way that some bodies of the first system find themselves in contact with some bodies of the second system, each virtual displacement of the resultant system will impose on the quantities $q_i^1$ and $q_j^2$ variations $\delta q_i^1$ and $\delta q_j^2$, and on the acting forces a 
+work:
+
 
 $$(5) \ \ \delta W = \delta W_1 + \delta W_2 = \sum F_i^1 \delta q_i^1 + \sum F_j^2 \delta q_j^2 $$
+
 But one will not always obtain a virtual displacement of the resultant system by combining just any virtual displacement of system 2: that was possible when each of the systems 1 and 2 existed alone; but their combination may become impossible when systems 1 and 2 are juxtaposed, because it would have the effect of bringing at the same time, to a single point of space, some bodies of system 1 and some bodies of system 2. 
 
-The juxtaposition of systems 1 and 2 therefore imposes new restrictions on the displacements of each: *new liaisons*, and these liaisons do not leave the values that one can attribute by a virtual displacement to $\delta q_i^1$ and $\delta q_j^2$ entirely arbitrary. They demand that these values confirm one of several equalities called *equations of liaisons* which take the form:
+The juxtaposition of systems 1 and 2 therefore imposes new restrictions on the displacements of each: *new liaisons*, and these liaisons do not leave the values that one can attribute by a virtual displacement to $\delta q_i^1$ and $\delta q_j^2$ entirely arbitrary. They demand that these values confirm one of several equalities called *equations of liaisons* which take 
+the form:
+
 
 $$(6) \ \ \sum C_i^1 \delta q_i^1 + \sum C_j^2 \delta q_j^2 = 0 $$
+
 To the conditions of cancellation of the sum (**5**), one should therefore add the constraints given by (**6**); the elimination of the displacements $\delta q_i^1$ and $\delta q_j^2$ between the equations (**5**) and (**6**) brings into being new quantities $\lambda_k$, the so-called *Lagrangian multipliers*, the number of which is equal to that of the equations of liaison and which can be interpreted as the *forces of liaison*. These are the forces that compel $S_1$ and $S_2$ to constitute a new system and which must naturally be considered as internal to the system $\Sigma$. 
 
 I can also cut the system $\Sigma$ out again into $S_1$ and $S_2$ and decide to see them as autonomous wholes to which I could apply the principle of virtual velocities in the form given on page 27, provided I explicitly add on the virtual works of the forces of liaison &mdash; which are *internal* to $\Sigma$, but which are now conceived as forces *external* to $S_1$ and $S_2$.
 
 We can illustrate this double interpretation with some examples.
 Two bars A and B are articulated as shown in figure 4.
+
 ![[Figuring-Space_Fig-1-4.png]]
+
+
 These bars can be imagined as being *linked* at $O$ and at $M$. There are two equations of liaison, which give two Lagrangian multipliers. These quantities can be interpreted as the forces that compel the bars to respect their joinings. These bars can also be imagined as being 'free', but each being subject to the actions of forces $\lambda_1$ and $\lambda_2$ ($A$ undergoes these actions at $O$ and at $M$, $B$ at $M$ only).
 
 The multiplier method can also be applied to dynamic equilibria. Take the example of a trolley going down an inclined plane (see fig. 5).
 
 ![[Figuring-Space_Fig-1-5.png]]
+
 We can adopt the classical approach by considering the trolley as subject to two forces; gravity and the resistance of the ground, the resultant of which acts on the cart, which is as such subject to a kind of artificially reduced gravity (it was Galileo's clever trick to study the 'slowing down' of falling bodies).
 
 One could also imagine the 'free' trolley as subject to *one* force only (natural gravity), but *compelled to follow the slope* (the condition would here be written $y=tg\alpha x$). It would be easy to demonstrate that we thus find ourselves again with the equation given by the first approach. 
@@ -165,7 +184,9 @@ One could also imagine the 'free' trolley as subject to *one* force only (natura
 Let us now take a final example from Lagrange.[^27] This provides an elegant illustration of the way in which some concepts from mechanics (in this case pressure) are comparable to virtual cutouts. Consider a fluid in equilibrium (see fig. 6).
 
 ![[Figuring-Space_Fig-1-6.png]]
-Separate by thought a part $A$ from the rest of the fluid. The latter is now divided into two parts $A$ and $B$ separated by a single surface $S$. If it undergoes a virtual displacement which *represents the cutout*, the two parts $A$ and $B$ do not mingle; this displacement could therefore not result from just any displacement of part $A$, taken in isolation, in conjunction with just any displacement of part $B$, taken in isolation; for each of the two parts the contact constitutes a liaison.
+
+Separate by thought a part $A$ from the rest of the fluid. The latter is now divided into 
+two parts $A$ and $B$ separated by a single surface $S$. If it undergoes a virtual displacement which *represents the cutout*, the two parts $A$ and $B$ do not mingle; this displacement could therefore not result from just any displacement of part $A$, taken in isolation, in conjunction with just any displacement of part $B$, taken in isolation; for each of the two parts the contact constitutes a liaison.
 
 Keep the form and position of part $A$ but empty out the fluid by thought, so that part $A$ becomes a cavity. The fluid from part $B$, with the obstacle of contact with the fluid of part $A$ removed, is no longer naturally in equilibrium and has a tendency to flow into the interior of the cavity.
 
@@ -187,12 +208,15 @@ Remember: Leibniz dreamed of a mechanics that would 'set points ablaze'. Less am
 Naturally, I can 'give' myself a point by simply stating: 'Let $x_0$ be such-and-such a real number taken to be on the straight line', or: 'Let $A$ be such-and-such a point on the plane ...' This designation which 'gives' me the point leaves it with no option; I simply make it available to myself; I claim to exhaust it by this single designation; I 'point', I summon, but I mobilize nothing: the extraction of this point would be a matter of total indifference to the points around it. 
 
 The situation is completely different if, for example, I consider the fraction
+
 $$f(x) = \frac{1}{x-x_0}$$
+
 If $x$ tends towards $x_0$, $f(x)$ tends towards infinity (hereafter $x_0$ is what mathematicians call a pole). Now the designation 'is problematic'; it is no longer a question of simply substituting the free letter $x_0$ for the letter $x$: it would only produce an absurdity, for $x_0$ can only be grasped as the inaccessible goal of a mobile point $x$; $x_0$ is henceforth a pole that 'invites' infinity and this infinity can be mastered. This is Cauchy's great idea: to position oneself in the complex plane to get round the poles.
 
 Taken ingenuously as being 'on' a straight line, the point-pole is simply 'that which must not be bumped into'; infinity warns that something has to be incised to 'give a value' to $f(x)$.
 
 ![[Figuring-Space_Fig-1-7.png]]
+
 
 But in the complex plane, I can get round the obstacle (see fig. 7).
 This simple observation leads to Cauchy's residue calculus, the essential consequence of which can now be stated: let a domain $D$ be encircled by a curve $\Gamma$ (see fig. 8) and let a function be developable into a complete series in the vicinity of each point of this domain $D$. A point $P_0$ of $D$ being given, the value of the function at this point is known as soon as the values of the function on the curve $\Gamma$ are known. The choice of $f$ on $\Gamma$ echoes through the whole domain: this justifies the use of the term 'holomorphy'.
@@ -202,6 +226,7 @@ This theorem allows an electrostatic formulation: Poisson's theorem, which is mo
 We will only go over the crucial part of the demonstration which shows how far Cauchy and Poisson revolutionized the coarse conception of the point as a simple position established through designation:
 
 ![[Figuring-Space_Fig-1-8.png]]
+
 
 How do we bring life to 'just any' point chosen in the interior of the domain $D$?
 
