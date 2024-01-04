@@ -1,0 +1,96 @@
+<h1 id="appendix-1-note-on-quaternions">Appendix 1: Note on
+Quaternions</h1>
+<p>A quaternion is an ordered quadruplet
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>q</mi><mo>=</mo><mrow><mo stretchy="true" form="prefix">(</mo><msub><mi>x</mi><mn>0</mn></msub><mo>,</mo><msub><mi>x</mi><mn>1</mn></msub><mo>,</mo><msub><mi>x</mi><mn>2</mn></msub><mo>,</mo><msub><mi>x</mi><mn>3</mn></msub><mo stretchy="true" form="postfix">)</mo></mrow></mrow><annotation encoding="application/x-tex">q=(x_0,x_1,x_2,x_3)</annotation></semantics></math>.</p>
+<p>An <em>addition</em> can easily be defined:</p>
+<p>(<strong>1</strong>)
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mrow><mo stretchy="true" form="prefix">(</mo><msub><mi>x</mi><mn>0</mn></msub><mo>,</mo><msub><mi>x</mi><mn>1</mn></msub><mo>,</mo><msub><mi>x</mi><mn>2</mn></msub><mo>,</mo><msub><mi>x</mi><mn>3</mn></msub><mo stretchy="true" form="postfix">)</mo></mrow><mo>+</mo><mrow><mo stretchy="true" form="prefix">(</mo><msub><mi>x</mi><mn>0</mn></msub><mi>′</mi><mo>,</mo><msub><mi>x</mi><mn>1</mn></msub><mi>′</mi><mo>,</mo><msub><mi>x</mi><mn>2</mn></msub><mi>′</mi><mo>,</mo><msub><mi>x</mi><mn>3</mn></msub><mi>′</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo>=</mo><mrow><mo stretchy="true" form="prefix">(</mo><msub><mi>x</mi><mn>0</mn></msub><mo>+</mo><msub><mi>x</mi><mn>0</mn></msub><mi>′</mi><mo>,</mo><msub><mi>x</mi><mn>1</mn></msub><mo>+</mo><msub><mi>x</mi><mn>1</mn></msub><mi>′</mi><mo>,</mo><msub><mi>x</mi><mn>2</mn></msub><mo>+</mo><msub><mi>x</mi><mn>2</mn></msub><mi>′</mi><mo>,</mo><msub><mi>x</mi><mn>3</mn></msub><mo>+</mo><msub><mi>x</mi><mn>3</mn></msub><mi>′</mi><mo stretchy="true" form="postfix">)</mo></mrow></mrow><annotation encoding="application/x-tex">(x_0,x_1,x_2,x_3) + (x_0&#39;,x_1&#39;,x_2&#39;,x_3&#39;) = (x_0 + x_0&#39;,x_1+x_1&#39;,x_2+x_2&#39;,x_3+x_3&#39;)</annotation></semantics></math></p>
+<p>as can a <em>multiplication</em> by a scalar (a real number)
+corresponding to changes of level (‘dilatations’):</p>
+<p>(<strong>2</strong>)
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>λ</mi><mrow><mo stretchy="true" form="prefix">(</mo><msub><mi>x</mi><mn>0</mn></msub><mo>,</mo><msub><mi>x</mi><mn>1</mn></msub><mo>,</mo><msub><mi>x</mi><mn>2</mn></msub><mo>,</mo><msub><mi>x</mi><mn>3</mn></msub><mo stretchy="true" form="postfix">)</mo></mrow><mo>=</mo><mrow><mo stretchy="true" form="prefix">(</mo><mi>λ</mi><msub><mi>x</mi><mn>0</mn></msub><mo>,</mo><mi>λ</mi><msub><mi>x</mi><mn>1</mn></msub><mo>,</mo><mi>λ</mi><msub><mi>x</mi><mn>2</mn></msub><mo>,</mo><mi>λ</mi><msub><mi>x</mi><mn>3</mn></msub><mo stretchy="true" form="postfix">)</mo></mrow></mrow><annotation encoding="application/x-tex">\lambda (x_0, x_1, x_2, x_3) = (\lambda x_0, \lambda x_1, \lambda x_2, \lambda x_3)</annotation></semantics></math></p>
+<p>These operations make it possible to write quaternions in the
+form:</p>
+<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>q</mi><mo>=</mo><mrow><mo stretchy="true" form="prefix">(</mo><msub><mi>x</mi><mn>0</mn></msub><mtext mathvariant="bold">𝟏</mtext><mo>,</mo><msub><mi>x</mi><mn>1</mn></msub><mtext mathvariant="bold">𝐢</mtext><mo>,</mo><msub><mi>x</mi><mn>2</mn></msub><mtext mathvariant="bold">𝐣</mtext><mo>,</mo><msub><mi>x</mi><mn>3</mn></msub><mtext mathvariant="bold">𝐤</mtext><mo stretchy="true" form="postfix">)</mo></mrow></mrow><annotation encoding="application/x-tex">q=(x_0\textbf{1}, x_1\textbf{i},x_2\textbf{j},x_3\textbf{k}) </annotation></semantics></math>
+where
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext mathvariant="bold">𝟏</mtext><mo>=</mo><mrow><mo stretchy="true" form="prefix">(</mo><mn>1</mn><mo>,</mo><mn>0</mn><mo>,</mo><mn>0</mn><mo>,</mo><mn>0</mn><mo stretchy="true" form="postfix">)</mo></mrow></mrow><annotation encoding="application/x-tex">\textbf{1} = (1,0,0,0)</annotation></semantics></math>
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext mathvariant="bold">𝐢</mtext><mo>=</mo><mrow><mo stretchy="true" form="prefix">(</mo><mn>0</mn><mo>,</mo><mn>1</mn><mo>,</mo><mn>0</mn><mo>,</mo><mn>0</mn><mo stretchy="true" form="postfix">)</mo></mrow></mrow><annotation encoding="application/x-tex">\textbf{i} = (0,1,0,0)</annotation></semantics></math>
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext mathvariant="bold">𝐣</mtext><mo>=</mo><mrow><mo stretchy="true" form="prefix">(</mo><mn>0</mn><mo>,</mo><mn>0</mn><mo>,</mo><mn>1</mn><mo>,</mo><mn>0</mn><mo stretchy="true" form="postfix">)</mo></mrow></mrow><annotation encoding="application/x-tex">\textbf{j} = (0,0,1,0)</annotation></semantics></math>
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext mathvariant="bold">𝐤</mtext><mo>=</mo><mrow><mo stretchy="true" form="prefix">(</mo><mn>0</mn><mo>,</mo><mn>0</mn><mo>,</mo><mn>0</mn><mo>,</mo><mn>1</mn><mo stretchy="true" form="postfix">)</mo></mrow></mrow><annotation encoding="application/x-tex">\textbf{k} = (0,0,0,1)</annotation></semantics></math></p>
+<p>The quaternions of the form
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mrow><mo stretchy="true" form="prefix">(</mo><msub><mi>x</mi><mn>0</mn></msub><mo>,</mo><mn>0</mn><mo>,</mo><mn>0</mn><mo>,</mo><mn>0</mn><mo stretchy="true" form="postfix">)</mo></mrow><mo>=</mo><msub><mi>x</mi><mn>0</mn></msub><mtext mathvariant="bold">𝟏</mtext></mrow><annotation encoding="application/x-tex">(x_0,0,0,0) = x_0\textbf{1}</annotation></semantics></math>
+are said to be ‘real’ (‘temporal’ according to Hamilton) and can be
+positive or negative; we will speak of the straight line associated with
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtext mathvariant="bold">𝟏</mtext><annotation encoding="application/x-tex">\textbf{1}</annotation></semantics></math>.</p>
+<p>The quaternions of the form
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo stretchy="true" form="prefix">(</mo><mn>0</mn><mo>,</mo><msub><mi>x</mi><mn>1</mn></msub><mo>,</mo><msub><mi>x</mi><mn>2</mn></msub><mo>,</mo><msub><mi>x</mi><mn>3</mn></msub><mo stretchy="true" form="postfix">)</mo></mrow><annotation encoding="application/x-tex">(0,x_1,x_2,x_3)</annotation></semantics></math>
+are said to be ‘pure’ (or ‘spatial’: these are the ones that represent
+space according to Hamilton). In particular, the elements
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtext mathvariant="bold">𝐢, 𝐣, 𝐤</mtext><annotation encoding="application/x-tex">\textbf{i, j, k}</annotation></semantics></math>
+are said to be ‘spatial units’.</p>
+<p>The foregoing remarks lead us to decompose a quaternion by the
+formula:</p>
+<p>(<strong>3</strong>)
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>q</mi><mo>=</mo><msub><mi>x</mi><mn>0</mn></msub><mtext mathvariant="bold">𝟏</mtext><mo>+</mo><msub><mi>x</mi><mn>1</mn></msub><mtext mathvariant="bold">𝐢</mtext><mo>+</mo><msub><mi>x</mi><mn>2</mn></msub><mtext mathvariant="bold">𝐣</mtext><mo>+</mo><msub><mi>x</mi><mn>3</mn></msub><mtext mathvariant="bold">𝐤</mtext><mo>=</mo><mrow><mo stretchy="true" form="prefix">(</mo><msub><mi>x</mi><mn>0</mn></msub><mo>,</mo><mover><mi>V</mi><mo accent="true">→</mo></mover><mo stretchy="true" form="postfix">)</mo></mrow></mrow><annotation encoding="application/x-tex">q = x_0\textbf{1} + x_1\textbf{i} + x_2\textbf{j} + x_3\textbf{k} = (x_0,\vec{V})</annotation></semantics></math></p>
+<p>where
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><msub><mi>x</mi><mn>0</mn></msub><annotation encoding="application/x-tex">x_0</annotation></semantics></math>
+is the ‘scalar’ part and
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mover><mi>V</mi><mo accent="true">→</mo></mover><annotation encoding="application/x-tex">\vec{V}</annotation></semantics></math>
+the ‘vectorial’ part.</p>
+<p>We can define a multiplication
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mo>×</mo><annotation encoding="application/x-tex">\times</annotation></semantics></math>
+of quaternions, which would be distributive in relation to the preceding
+addition and compatible with dilatations:</p>
+<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>λ</mi><mo>,</mo><mi>q</mi><mo>×</mo><mi>q</mi><mi>′</mi><mo>+</mo><mrow><mo stretchy="true" form="prefix">(</mo><mi>λ</mi><mo>,</mo><mi>q</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo>×</mo><mi>q</mi><mi>′</mi><mo>=</mo><mi>q</mi><mo>×</mo><mrow><mo stretchy="true" form="prefix">(</mo><mi>λ</mi><mo>,</mo><mi>q</mi><mi>′</mi><mo stretchy="true" form="postfix">)</mo></mrow></mrow><annotation encoding="application/x-tex"> \lambda,q \times q&#39; + (\lambda,q) \times q&#39; = q \times (\lambda, q&#39;)</annotation></semantics></math>
+The formula of
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mo>×</mo><annotation encoding="application/x-tex">\times</annotation></semantics></math>
+being complicated, we will not give it here, but we should observe
+that:</p>
+<ol type="a">
+<li>this multiplication is not generally commutative;</li>
+<li>non-zero quaternions (different from
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo stretchy="true" form="prefix">(</mo><mn>0</mn><mo>,</mo><mn>0</mn><mo>,</mo><mn>0</mn><mo>,</mo><mn>0</mn><mo stretchy="true" form="postfix">)</mo></mrow><annotation encoding="application/x-tex">(0,0,0,0)</annotation></semantics></math>)
+admit an inverse for
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mi>x</mi><annotation encoding="application/x-tex">x</annotation></semantics></math>;</li>
+<li>it coincides with multiplication of real numbers for the elements of
+the real straight line;</li>
+<li><math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext mathvariant="bold">𝟏</mtext><mo>×</mo><mi>q</mi><mo>=</mo><mi>q</mi><mo>×</mo><mtext mathvariant="bold">𝟏</mtext></mrow><annotation encoding="application/x-tex">\textbf{1} \times q = q \times \textbf{1}</annotation></semantics></math>
+for all quaternions;</li>
+<li><math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext mathvariant="bold">𝐢</mtext><mo>×</mo><mtext mathvariant="bold">𝐣</mtext><mo>=</mo><mo>−</mo><mtext mathvariant="bold">𝐣</mtext><mo>×</mo><mtext mathvariant="bold">𝐢</mtext><mo>=</mo><mi>k</mi></mrow><annotation encoding="application/x-tex">\textbf{i} \times \textbf{j} = -\textbf{j} \times \textbf{i} = k</annotation></semantics></math>
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext mathvariant="bold">𝐣</mtext><mo>×</mo><mtext mathvariant="bold">𝐤</mtext><mo>=</mo><mo>−</mo><mtext mathvariant="bold">𝐤</mtext><mo>×</mo><mtext mathvariant="bold">𝐣</mtext><mo>=</mo><mtext mathvariant="bold">𝐢</mtext></mrow><annotation encoding="application/x-tex">\textbf{j} \times \textbf{k} = -\textbf{k} \times \textbf{j} = \textbf{i}</annotation></semantics></math>
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext mathvariant="bold">𝐤</mtext><mo>×</mo><mtext mathvariant="bold">𝐢</mtext><mo>=</mo><mo>−</mo><mtext mathvariant="bold">𝐢</mtext><mo>×</mo><mtext mathvariant="bold">𝐤</mtext><mo>=</mo><mtext mathvariant="bold">𝐣</mtext></mrow><annotation encoding="application/x-tex">\textbf{k} \times \textbf{i} = -\textbf{i} \times \textbf{k} = \textbf{j}</annotation></semantics></math>
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msup><mtext mathvariant="bold">𝐢</mtext><mn>2</mn></msup><mo>=</mo><msup><mtext mathvariant="bold">𝐣</mtext><mn>2</mn></msup><mo>=</mo><msup><mtext mathvariant="bold">𝐤</mtext><mn>2</mn></msup><mo>=</mo><mo>−</mo><mtext mathvariant="bold">𝟏</mtext></mrow><annotation encoding="application/x-tex">\textbf{i}^2 = \textbf{j}^2 = \textbf{k}^2 = -\textbf{1}</annotation></semantics></math>
+more generally: if
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>q</mi><mo>=</mo><mrow><mo stretchy="true" form="prefix">(</mo><mn>0</mn><mo>,</mo><msub><mi>x</mi><mn>1</mn></msub><mo>,</mo><msub><mi>x</mi><mn>2</mn></msub><mo>,</mo><msub><mi>x</mi><mn>3</mn></msub><mo stretchy="true" form="postfix">)</mo></mrow></mrow><annotation encoding="application/x-tex">q = (0,x_1,x_2,x_3)</annotation></semantics></math>
+is ‘pure’ or ‘spatial’,
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msup><mi>q</mi><mn>2</mn></msup><mo>=</mo><mi>q</mi><mo>×</mo><mi>q</mi><mo>=</mo><mrow><mo stretchy="true" form="prefix">(</mo><mo>−</mo><mrow><mo stretchy="true" form="prefix">[</mo><msubsup><mi>x</mi><mn>1</mn><mn>2</mn></msubsup><mo>+</mo><msubsup><mi>x</mi><mn>2</mn><mn>2</mn></msubsup><mo>+</mo><msubsup><mi>x</mi><mn>3</mn><mn>2</mn></msubsup><mo stretchy="true" form="postfix">]</mo></mrow><mo>,</mo><mn>0</mn><mo>,</mo><mn>0</mn><mo>,</mo><mn>0</mn><mo stretchy="true" form="postfix">)</mo></mrow></mrow><annotation encoding="application/x-tex">q^2 = q \times q = (-[x_1^2 + x_2^2 + x_3^2],0,0,0)</annotation></semantics></math>.
+The square of spatial quaternions is <em>negative</em>. Moreover, the
+property of ‘negative square’ <em>characterizes</em> spatial
+quaternions;</li>
+<li>if
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mi>q</mi><annotation encoding="application/x-tex">q</annotation></semantics></math>
+an
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>q</mi><mi>′</mi></mrow><annotation encoding="application/x-tex">q&#39;</annotation></semantics></math>
+are spatial quaternions,
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>q</mi><mo>×</mo><mi>q</mi><mi>′</mi><mo>=</mo><mi>q</mi><mi>′</mi><mo>×</mo><mi>q</mi></mrow><annotation encoding="application/x-tex">q \times q&#39; = q&#39; \times q</annotation></semantics></math>
+if an only if
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mi>q</mi><annotation encoding="application/x-tex">q</annotation></semantics></math>
+and
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>q</mi><mi>′</mi></mrow><annotation encoding="application/x-tex">q&#39;</annotation></semantics></math>
+are ‘parallel’
+(<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>q</mi><mo>=</mo><mi>λ</mi><mi>q</mi><mi>′</mi></mrow><annotation encoding="application/x-tex">q=\lambda q&#39;</annotation></semantics></math>
+with
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mi>λ</mi><annotation encoding="application/x-tex">\lambda</annotation></semantics></math>
+real);
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>q</mi><mo>×</mo><mi>q</mi><mi>′</mi><mo>=</mo><mo>−</mo><mi>q</mi><mi>′</mi><mo>×</mo><mi>q</mi></mrow><annotation encoding="application/x-tex">q \times q&#39; = -q&#39; \times q</annotation></semantics></math>
+if and only if
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mi>q</mi><annotation encoding="application/x-tex">q</annotation></semantics></math>
+and
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>q</mi><mi>′</mi></mrow><annotation encoding="application/x-tex">q&#39;</annotation></semantics></math>
+are ‘perpendicular’;</li>
+<li>the ‘spatial units’
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtext mathvariant="bold">𝐢,𝐣,𝐤</mtext><annotation encoding="application/x-tex">\textbf{i,j,k}</annotation></semantics></math>
+constitute a trirectangular trihedron and swap place through
+<em>rotations</em> associated with multiplication (a particular case of
+the ‘perpendicular torsion’ of figure 25, p. 174).</li>
+</ol>

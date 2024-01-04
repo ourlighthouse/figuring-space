@@ -33,7 +33,7 @@ $$\beta = R(\textbf{j})\alpha = R(\textbf{j})(-\textbf{i}) = \textbf{j} \times (
 
 (b) Then, by carrying out a pivot $R(\textbf{i})$ (see fig. Eb) around $\textbf{i}$ (the motion being effected in a clockwise direction if it is seen from the south), the telescope points towards the east (extremity of $\gamma$). We have therefore:
 
-$$-\textbf{j} = \gamma = R(\textbf{i})(\beta) = \textbf{i} \times \textbf{k} \  \ \text{\emph{or}}\ \ \textbf{k} \times \textbf{i} = -\textbf{i} \times \textbf{k} = \textbf{j} $$
+$$-\textbf{j} = \gamma = R(\textbf{i})(\beta) = \textbf{i} \times \textbf{k} \  \ \textit{or}\ \ \textbf{k} \times \textbf{i} = -\textbf{i} \times \textbf{k} = \textbf{j} $$
 
 This is the position of Hamilton's figure Ec.
 

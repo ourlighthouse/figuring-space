@@ -14,7 +14,7 @@ $$\frac{\partial X}{\partial x}+\frac{\partial Y}{\partial y} + \frac{\partial Z
 
 (it is the scalar part of the variable quaternion $\nabla\vec{V}$), and where $\text{rot} \ \vec{V}$ is the vectorial function:
 
-$$\nabla = \biggl\lparen\frac{\partial Z}{\partial y}-\frac{\partial Y}{\partial z}\biggr\rparen\textbf{i}+\biggl\lparen\frac{\partial X}{\partial z}-\frac{\partial Z}{\partial X}\biggr\rparen\textbf{j} + \biggl\lparen\frac{\partial X}{\partial y}-\frac{\partial Y}{\partial X}\biggr\rparen\textbf{k}$$
+$$\nabla = \biggl\lparen \frac{\partial Z}{\partial y}-\frac{\partial Y}{\partial z} \biggr\rparen \textbf{i}+ \biggl\lparen \frac{\partial X}{\partial z}-\frac{\partial Z}{\partial X} \biggr\rparen \textbf{j} + \biggl\lparen \frac{\partial X}{\partial y}-\frac{\partial Y}{\partial X} \biggr\rparen \textbf{k}$$
 The expression '$\text{div} \ \vec{V}$' is called 'convergence' by Maxwell; the expression '$\text{rot}\ \vec{V}$' is called *curl V* by Maxwell.
 
 If $\vec{V}$ is conceived as a field of forces acting on particles, the divergence of $\vec{V}$ at a point $P$ measures the manner in which the field repels (or attracts) a particle in the vicinity of $P$.
